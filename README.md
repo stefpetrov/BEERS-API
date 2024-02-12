@@ -1,1 +1,1 @@
-Beer API Created with Go and GIN
+## Beer API Created with Go and GIN
